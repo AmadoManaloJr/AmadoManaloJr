@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amado</h1>
-<h3 align="center">A passionate Frontend Developer | Html Email Developer | Digital Marketer from Cherry Hill, NJ</h3>
+<h3 align="center">A passionate Frontend Developer | Html Email Developer from Cherry Hill, NJ</h3>
 
-- 🌱 I’m currently learning **Salesforce, Shopify, TBH a bit of everything**
+- 🌱 I’m currently learning **Salesforce, Shopify, Python, TBH a bit of everything**
 
 - 👯 I’m looking to collaborate on **Freelance projects**
 
-- 🤝 I’m looking for help with **Finding a New Full time Role / Contract**
+- 🤝 I’m looking for help with **Finding a New Full time Web or Email Developer Role / Contract**
 
-- 💬 Ask me about **React, Html E-mails, Marketing Automation, PPC, SEO**
+- 💬 Ask me about **React, Html E-mails, Marketing Automation**
 
-- 📫 How to reach me **amanalojr@gmail.com**
+- 📫 How to reach me **amanalojr at gmail.com**
 
 - ⚡ Fun fact **I trained under a Tv chef when I was in culinary school**
 
