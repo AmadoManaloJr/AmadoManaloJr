@@ -7,15 +7,9 @@
 
 - 🤝 I’m looking for help with **Finding a New Full time Role / Contract**
 
-- 👨‍💻 All of my projects are available at [amadonoolmanalojr.com](amadonoolmanalojr.com)
-
-- 📝 I regularly write articles on [amadonoolmanalojr.com](amadonoolmanalojr.com)
-
 - 💬 Ask me about **React, Html E-mails, Marketing Automation, PPC, SEO**
 
 - 📫 How to reach me **amanalojr@gmail.com**
-
-- 📄 Know about my experiences [amadonoolmanalojr.com](amadonoolmanalojr.com)
 
 - ⚡ Fun fact **I trained under a Tv chef when I was in culinary school**
 
